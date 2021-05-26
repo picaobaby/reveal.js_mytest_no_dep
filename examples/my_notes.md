@@ -1,5 +1,10 @@
-## local folder
+## test 
+hello
+this is me 
 
+
+
+## local folder
 - package.json
 - add "build" command
 - "build": "mdx-deck build demo.mdx"
